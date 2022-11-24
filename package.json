@@ -1,0 +1,31 @@
+{
+  "name": "matrix-rain-canvas",
+  "description": "",
+  "private": true,
+  "version": "0.0.0",
+  "author": "Ludho",
+  "license": "Apache-2.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "vite": "^2.9.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luhdo/matrix-rain-canvas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Luhdo/matrix-rain-canvas/issues"
+  },
+  "homepage": "https://github.com/Luhdo/matrix-rain-canvas#readme",
+  "keywords": [
+    "matrix",
+    "rain",
+    "canvas",
+    "typescript"
+  ]
+}
